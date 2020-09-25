@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Physics PhD Candidate
+role: PhD Candidate in Physics
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include string theory and physical oceanography.
+bio: PhD Candidate in Physics at UC Santa Barbara.
 
-interests:
-- M theory/heterotic duality
-- Ocean circulation and turbulence
-- Biogeochemistry
+#interests:
+#- M theory/heterotic duality
+#- Ocean circulation and turbulence
+#- Biogeochemistry
 
 education:
   courses:
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Description
-
-Description 2
+I am a physicist in the process of transitioning fields from string theory to oceanography. While string theory and oceanography may at first seem to be a world apart, I am fascinated by the way that they both describe enormous, unintuitive structures that govern the conditions of our human lives. Beyond my natural interest in the subject, I am motivated to action by the looming threats engendered by anthropogenic global warming. I intend to contribute to a powerful societal response to climate change by furthering our understanding of how the ocean interacts with Earth’s climate.

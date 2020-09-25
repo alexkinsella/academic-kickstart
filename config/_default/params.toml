@@ -13,10 +13,10 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "ocean"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -232,20 +232,20 @@ plugins_js  = []
 ############################
 ## Search
 ############################
-[search]
-  # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  engine = 1
-
-  # Configuration of Algolia search engine.
-  # Paste the values from your Algolia dashboard.
-  [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+# [search]
+#   # Search provider:
+#   #   0: No search engine
+#   #   1: Academic (built-in)
+#   #   2: Algolia (https://www.algolia.com)
+#   engine = 1
+#
+#   # Configuration of Algolia search engine.
+#   # Paste the values from your Algolia dashboard.
+#   [search.algolia]
+#     app_id = ""
+#     api_key = ""
+#     index_name = ""
+#     show_logo = false
 
 ############################
 ## Maps
