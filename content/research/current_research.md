@@ -51,7 +51,7 @@ subtitle = ""
 +++
 **Physical Oceanography and Biogeochemistry**
 
-My primary research interest is in the effects of ocean circulation and biogeochemistry on the large-scale dynamics of Earth's climate. My current work explores ocean circulation locally in the Santa Barbara channel, as well as how flexible nutrient ratios in the biological pump affects the global distribution of dissolved inorganic carbon. Current projects:
+My primary research interests center around the effects of ocean circulation and biogeochemistry on the large-scale dynamics of Earth's climate. My current work explores ocean circulation locally in the Santa Barbara channel, as well as how flexible nutrient ratios in the biological pump affects the global distribution of dissolved inorganic carbon. Current projects:
 - **Santa Barbara Channel Dynamics:** With [Nick Nidzieko](https://ucsbcoastlab.org/nick-nidzieko/) and [Alex Fisher](https://alexanderwfisher.com/), I am studying the coupled ocean-atmosphere dynamics of the Santa Barbara Channel via analysis of ROMS/NAM model output and observational data.
 - **Flexible Nutrient Ratios:** With [Tim DeVries](https://tdevries.eri.ucsb.edu/), I am implementing flexible nutrient uptake stoichiometries for phytoplankton in a global ocean circulation inverse model.
 
