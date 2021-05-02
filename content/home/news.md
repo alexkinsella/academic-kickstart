@@ -49,4 +49,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-10/15/20: My paper with [Bobby Acharya](https://www.kcl.ac.uk/people/bobby-acharya) and [Eirik Eik Svanes](https://sites.google.com/view/eesvanes/) on solutions to the reduced Hull-Strominger system is now available as a preprint on arXiv! [Click here](https://arxiv.org/abs/2010.07438) to view.
+1/28/21: My paper with [Bobby Acharya](https://www.kcl.ac.uk/people/bobby-acharya) and [Eirik Eik Svanes](https://sites.google.com/view/eesvanes/) on solutions to the reduced Hull-Strominger system is now published in JHEP. [Click here](https://link.springer.com/article/10.1007/JHEP01(2021)197) to view the journal version or [here](https://arxiv.org/abs/2010.07438) to view a preprint on arXiv.

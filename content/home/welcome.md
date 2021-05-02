@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-I am a PhD candidate in physics at UC Santa Barbara focusing on physical oceanography and string theory. My PhD thesis on M-theory/heterotic duality is advised by [Professor David Morrison](http://web.physics.ucsb.edu/~drm/), and I am a member of the [Simons Collaboration on Special Holonomy in Geometry, Analysis, and Physics](https://sites.duke.edu/scshgap/). I was previously a [National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org/), and before that I completed my BSc in physics and mathematics at Stanford University.
+I am a PhD candidate in physics at UC Santa Barbara focusing on physical oceanography and string theory. My PhD thesis on M-theory/heterotic duality is advised by [Professor David Morrison](http://web.physics.ucsb.edu/~drm/), and I am a member of the [Simons Collaboration on Special Holonomy in Geometry, Analysis, and Physics](https://sites.duke.edu/scshgap/). I was previously a [National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org/), and before that I completed my BSc in physics and mathematics at Stanford University. In July 2021, I will start as a postdoctoral fellow working with [Amala Mahadevan](https://mahadevan.whoi.edu/) at Woods Hole Oceanographic Institution.
 
 My work in oceanography is motivated by the question of how ocean circulation and turbulence affect Earth's climate. I'm interested in the ways that geophysical fluid dynamics in the ocean and atmosphere determine distributions of heat and carbon via transport phenomena and biogeochemistry.
 
