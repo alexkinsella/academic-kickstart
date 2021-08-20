@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Investigator
+role: PhD Candidate in Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Woods Hole Oceanographic Institution
+- name: UC Santa Barbara
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral Investigator at WHOI.
+bio: PhD Candidate in Physics at UC Santa Barbara.
 
 #interests:
 #- M theory/heterotic duality
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Physics
     institution: UC Santa Barbara
-    year: 2021
+    year: 2021 (expected)
   - course: Masters in Physics
     institution: UC Santa Barbara
     year: 2018
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a physicist fascinated by the Earth, Universe, and Nature. My current research is in physical oceanography, but my PhD training was in string theory, a subfield of high energy theoretical physics.  While the two disciplines may at first seem to be a world apart, I am fascinated by the way that both string theory and oceanography describe enormous, unintuitive structures that govern the conditions of our human lives. Beyond my natural interest in geophysical fluid dynamics, I am motivated to action by the looming threats engendered by anthropogenic global warming. I intend to contribute to a powerful societal response to climate change by furthering our understanding of how the ocean interacts with Earth’s climate.
+I am a physicist in the process of transitioning fields from string theory to oceanography. While the two disciplines may at first seem to be a world apart, I am fascinated by the way that both string theory and oceanography describe enormous, unintuitive structures that govern the conditions of our human lives. Beyond my natural interest in the subject, I am motivated to action by the looming threats engendered by anthropogenic global warming. I intend to contribute to a powerful societal response to climate change by furthering our understanding of how the ocean interacts with Earth’s climate.

@@ -1,14 +1,14 @@
 +++
-# A Demo section created with the Blank widget.
+# Welcome text
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Current Research"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,9 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**Physical Oceanography and Biogeochemistry**
 
-My primary research interests center around the effects of ocean circulation, air-sea interaction, and biogeochemistry on the large-scale dynamics of Earth's climate. 
-- **Monsoon Intraseasonal Oscillations** With [Amala Mahadevan](https://mahadevan.whoi.edu/), I am studying the role of air-sea coupling in development and propagation of northward-traveling waves of precipitation in the Indian monsoon over the Bay of Bengal.
-- **Santa Barbara Channel Dynamics:** With [Nick Nidzieko](https://ucsbcoastlab.org/nick-nidzieko/) and [Alex Fisher](https://alexanderwfisher.com/), I am studying the coupled ocean-atmosphere dynamics of the Santa Barbara Channel via analysis of ROMS/NAM model output and observational data.
-- **Flexible Nutrient Ratios:** With [Tim DeVries](https://tdevries.eri.ucsb.edu/), I am implementing flexible nutrient uptake stoichiometries for phytoplankton in a global ocean circulation inverse model.
+I am a PhD candidate in physics at UC Santa Barbara focusing on physical oceanography and string theory. My PhD thesis on M-theory/heterotic duality is advised by [Professor David Morrison](http://web.physics.ucsb.edu/~drm/), and I am a member of the [Simons Collaboration on Special Holonomy in Geometry, Analysis, and Physics](https://sites.duke.edu/scshgap/). I was previously a [National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org/), and before that I completed my BSc in physics and mathematics at Stanford University. In July 2021, I will start as a postdoctoral investigator working with [Amala Mahadevan](https://mahadevan.whoi.edu/) at Woods Hole Oceanographic Institution.
+
+My work in oceanography is motivated by the question of how ocean circulation and turbulence affect Earth's climate. I'm interested in the ways that geophysical fluid dynamics in the ocean and atmosphere determine distributions of heat and carbon via transport phenomena and biogeochemistry.
+
+For more information on my current and past research, head to my [research page](/research). For a copy of my CV, [click here](files/kinsella_CV.pdf).

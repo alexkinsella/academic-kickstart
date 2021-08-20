@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Send me an email at **akinsella (at) ucsb.edu**.
+Send me an email at **alex.kinsella (at) whoi.edu**.
