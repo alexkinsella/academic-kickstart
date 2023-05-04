@@ -29,6 +29,11 @@
   url = "files/kinsella_CV.pdf"
   weight = 50
 
+ [[main]]
+  name = "Blog"
+  url = "/post"
+  weight = 60
+
 # [[main]]
 #   name = "Photos"
 #   url = "/photos"
