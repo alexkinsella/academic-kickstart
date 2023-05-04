@@ -19,7 +19,9 @@ As I was watching this cloud, I noticed a new cumulus cloud developing just upwi
 
 Then, the plot thickened: a friend sent me a picture of a long, narrow cloud. But she had spotted this cloud in Falmouth, 20 miles to the southwest. Could it be?… Lo and behold, satellite imagery confirmed that we were seeing the same cloud: this cumulus cloud was 20 miles long! I realized that I was seeing one end of a liquid snake that stretched far beyond my horizon, basking in the sun for as long as it could manage before dusk fell. This Long Cloud (now warranting capitalization) had provided a tiny element of unity between the lives of those of us who were looking at the sky this afternoon and wondering what this funny cloud was up to. 
 
-{{< video src="/media/windy_2.mp4" controls="yes" caption="Satellite imagery of cloud cover over the Upper Cape and the canal from about 5:00 to 6:30 pm. The Long Cloud grows and decays over the course of the video, stretching from Falmouth in the southwest to Cape Cod Bay in the northeast at its peak serpentine glory around the 17:59 timestamp. The cloud from the above timelapse can also be seen in this satellite imagery: it is present at the beginning of this video by the eastern exit of the canal and propagates northeast over the bay as it rapidly dissipates. Visualization is from Windy using Eumetsat data. (The “jerkiness” is due to interpolation, where images taken at discrete times, probably about 10 minutes apart, are smoothed into a continuous video.)" >}}
+{{< video src="/media/windy_2.mp4" controls="yes" >}}
+
+The above video shows satellite imagery of cloud cover over the Upper Cape and the canal from about 5:00 to 6:30 pm. The Long Cloud grows and decays over the course of the video, stretching from Falmouth in the southwest to Cape Cod Bay in the northeast at its peak serpentine glory around the 17:59 timestamp. The cloud from the above timelapse can also be seen in this satellite imagery: it is present at the beginning of this video by the eastern exit of the canal and propagates northeast over the bay as it rapidly dissipates. Visualization is from Windy using Eumetsat data. (The “jerkiness” is due to interpolation, where images taken at discrete times, probably about 10 minutes apart, are smoothed into a continuous video.)
 
 **Why This Cloud?**
 
@@ -27,7 +29,8 @@ When I see a cloud, I always want to understand why it formed (such questions fe
 
 **Timelapse of the Prelude Cloud**
 
-{{< video src="/media/TL3_small.mp4" controls="yes" caption="Timelapse imagery of the initial cumulus cloud over Cape Cod Bay. The timelapse is about 30 minutes in real time, from approximately 5:00 to 5:30 pm." >}}
+{{< video src="/media/TL3_small.mp4" controls="yes" >}}
+This video shows timelapse imagery of the initial cumulus cloud over Cape Cod Bay. The timelapse is about 30 minutes in real time, from approximately 5:00 to 5:30 pm.
 
 I love cloud timelapses because they let you see all the motion that’s just barely too slow for our eyes to register. A cumulus cloud that’s vigorously growing (let’s say at a rate that would let it reach from the ground to the cruising altitude of a typical passenger plane in about 20 minutes) will change in a way that’s just barely perceptible if one stares at the cloud by eye. But a timelapse brings all of the action to life, augmenting our eyes with “slow vision” that lets us watch clouds in their native timescales. Here are a few of the features that I was looking at as the prelude cloud (the one that foreshadowed the Long Cloud) developed before me:
 
