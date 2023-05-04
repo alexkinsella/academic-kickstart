@@ -21,7 +21,7 @@ Then, the plot thickened: a friend sent me a picture of a long, narrow cloud. Bu
 
 {{< video src="/media/windy_2.mp4" controls="yes" >}}
 
-The above video shows satellite imagery of cloud cover over the Upper Cape and the canal from about 5:00 to 6:30 pm. The Long Cloud grows and decays over the course of the video, stretching from Falmouth in the southwest to Cape Cod Bay in the northeast at its peak serpentine glory around the 17:59 timestamp. The cloud from the above timelapse can also be seen in this satellite imagery: it is present at the beginning of this video by the eastern exit of the canal and propagates northeast over the bay as it rapidly dissipates. Visualization is from Windy using Eumetsat data. (The “jerkiness” is due to interpolation, where images taken at discrete times, probably about 10 minutes apart, are smoothed into a continuous video.)
+The above video shows satellite imagery of cloud cover over southeastern Massachusetts from about 5:00 to 6:30 pm. The Long Cloud grows and decays over the course of the video, stretching from Falmouth in the southwest to Cape Cod Bay in the northeast at its peak serpentine glory around the 17:59 timestamp. The prelude cloud from the below timelapse can also be seen in this satellite imagery: it is present at the beginning of this video by the eastern exit of the canal and propagates northeast over Cape Cod bay as it rapidly dissipates. Visualization is from Windy using Eumetsat data. (The “jerkiness” is due to interpolation, where images taken at discrete times, probably about 10 minutes apart, are smoothed into a continuous video.)
 
 **Why This Cloud?**
 
