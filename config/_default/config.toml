@@ -113,5 +113,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [params.analytics]
   provider = "googleAnalytics4"
   measurement_id = "G-9MMDQ195GH"
+  
 googleAnalytics = 'G-9MMDQ195GH'
 google_analytics = 'G-9MMDQ195GH'
