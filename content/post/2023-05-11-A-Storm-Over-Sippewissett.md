@@ -13,7 +13,7 @@ This evening a line of thunderstorms crossed the Cape, ending a sunny spring aft
 
 I focused on one particular storm cell that passed over the marsh. The cell was topped by a mature-looking anvil and no updraft was visible, so it seemed that it was toward the end of its lifecycle. Beneath the center of the anvil were dense wisps of cloud slowly falling and evaporating in a downdraft; I was literally witnessing a waterfall!. (See the video below. This feature resembled a wall cloud, but because the cloud in this region was falling, it was associated with a downdraft rather than an updraft. Perhaps it had been a wall cloud earlier in its lifetime and was now collapsing?) 
 
-{{< video src="/media/downdraft_mam_small.mp4" controls="yes" >}}
+{{< video src="/media/downdraft_mam_annotate_small.mp4" controls="yes" >}}
 The trailing end of the storm was continually roiling with a patch of mammatus clouds: uncannily smooth lumps of cloud that form in groups at the bottom of a cloud. (See the bottom left cloud in seconds 15-20 of the video above.) These clouds are more often seen hanging from the anvil cloud of a strong thunderstorm, but in this case they were embedded in the lower portion of this weak storm. They are mesmerizing and uncommon, so getting to see them today was a great treat. The mechanism by which mammatus clouds form is still under debate by scientists, but it seems that turbulence, phase change of water, and the sharp gradient at the base of a storm cloud are all important factors.
 
 {{< video src="/media/rainbow_mam_small.mp4" controls="yes" >}}
