@@ -49,11 +49,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+**Oceanography**
+- **Flexible Nutrient Ratios:** With [Tim DeVries](https://tdevries.eri.ucsb.edu/), I implemented flexible nutrient uptake stoichiometries for phytoplankton in a global ocean circulation inverse model.
+
+
 **M-theory/heterotic Duality**
 
 As part of the [Simons Collaboration for Special Holonomy in Geometry, Analysis, and Physics](https://sites.duke.edu/scshgap/), I worked at the intersection of mathematics and physics to incorporate new research on special holonomy spaces into string theory constructions. My dissertation studies the duality between M-theory on $G_2$ manifolds and the $E_8 \times E_8$ heterotic string on Calabi-Yau threefolds. At low energies, each side of this duality gives an effective $N=1$ supersymmetric description of our universe, and in favorable situations, the background geometry and bundles may be chosen in a way that the two descriptions coincide. My work explored this correspondence both on orbifolds and in local models of the relevant geometries. Current projects:
-- **The Reduced Hull-Strominger System:** With [Eirik Eik Svanes](https://sites.google.com/view/eesvanes/) and [Bobby Acharya](https://www.kcl.ac.uk/people/bobby-acharya), I studied solutions to the Hull-Strominger system reduced to the 3D base of a local model of a Calabi-Yau threefold. [Click here](https://arxiv.org/abs/2010.07438) to view an arXiv preprint of our paper.
-- **Duality on Orbifolds:** With [David Morrison](http://web.physics.ucsb.edu/~drm/) and [Bobby Acharya](https://www.kcl.ac.uk/people/bobby-acharya), I studied how M-theory/heterotic duality behaves in the case of the half-$G_2$ limit of a $G_2$ orbifold. [Click here](https://arxiv.org/abs/2106.03886) to view an arXiv preprint of our paper.
+- **The Reduced Hull-Strominger System:** With [Eirik Eik Svanes](https://sites.google.com/view/eesvanes/) and [Bobby Acharya](https://www.kcl.ac.uk/people/bobby-acharya), I studied solutions to the Hull-Strominger system reduced to the 3D base of a local model of a Calabi-Yau threefold. [Click here](https://link.springer.com/article/10.1007/jhep01(2021)197) for our article in JHEP or [here](https://arxiv.org/abs/2010.07438) for an arXiv preprint of our paper.
+- **Duality on Orbifolds:** With [David Morrison](http://web.physics.ucsb.edu/~drm/) and [Bobby Acharya](https://www.kcl.ac.uk/people/bobby-acharya), I studied how M-theory/heterotic duality behaves in the case of the half-$G_2$ limit of a $G_2$ orbifold. [Click here](https://link.springer.com/article/10.1007/JHEP11(2021)065) for our article in JHEP or [here](https://arxiv.org/abs/2106.03886) for an arXiv preprint of our paper.
 
 **Quantum Gravity and Holography**
 
