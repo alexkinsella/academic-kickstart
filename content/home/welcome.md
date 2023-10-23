@@ -50,7 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-I am a postdoctoral investigator in the [Mahadevan Group](https://mahadevan.whoi.edu/) at Woods Hole Oceanographic Institution. My work is motivated by the question of how ocean circulation and turbulence affect Earth's climate -- a big question that leads to broad interests. My current research centers on intraseasonal oscillations of the Indian monsoon over the Bay of Bengal.
+I am a postdoctoral investigator in the [Mahadevan Group](https://mahadevan.whoi.edu/) at Woods Hole Oceanographic Institution. My work is motivated by the question of how dynamics of the upper-ocean and of clouds affect Earth's weather and climate -- a big question that leads to broad interests. My current research centers on intraseasonal oscillations of the Indian monsoon over the Bay of Bengal. [Click here](https://www.whoi.edu/south-asian-summer-monsoon/) for a brief article I wrote describing this work.
+
+I spend a lot of my time out in nature looking for cool clouds and plants and birds. [Take a look at my blog](/post) to see what I've been finding lately. 
 
 My PhD work was in string theory. My thesis on M-theory/heterotic duality was advised by [Professor David Morrison](http://web.physics.ucsb.edu/~drm/), and I was a member of the [Simons Collaboration on Special Holonomy in Geometry, Analysis, and Physics](https://sites.duke.edu/scshgap/). I was previously a [National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org/), and before that I completed my BSc in physics and mathematics at Stanford University.
 

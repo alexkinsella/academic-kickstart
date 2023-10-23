@@ -49,9 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**Physical Oceanography and Biogeochemistry**
+**Physical Oceanography**
 
-My primary research interests center around the effects of ocean circulation, air-sea interaction, and biogeochemistry on the large-scale dynamics of Earth's climate. 
-- **Monsoon Intraseasonal Oscillations** With [Amala Mahadevan](https://mahadevan.whoi.edu/), I am studying the role of air-sea coupling in development and propagation of northward-traveling waves of precipitation in the Indian monsoon over the Bay of Bengal.
+My primary research interests center around the effects of upper-ocean dynamics, air-sea interaction, and cloud physics on the large-scale dynamics of Earth's climate. 
+- **Monsoon Intraseasonal Oscillations** With [Amala Mahadevan](https://mahadevan.whoi.edu/), I am studying the role of air-sea coupling in development and propagation of northward-traveling waves of precipitation in the Indian monsoon over the Bay of Bengal. Our manuscript on this topic is under review at Journal of Climate. 
+- **Submesoscale Ocean Dynamics** I have gone to sea with the [CALYPSO](https://calypsodri.whoi.edu/) and [S-MODE](https://espo.nasa.gov/s-mode/content/S-MODE) field campaigns to gather data that will help us understand how the ocean transports heat and carbon from the surface ocean to the interior.
 - **Santa Barbara Channel Dynamics:** With [Nick Nidzieko](https://ucsbcoastlab.org/nick-nidzieko/) and [Alex Fisher](https://alexanderwfisher.com/), I am studying the coupled ocean-atmosphere dynamics of the Santa Barbara Channel via analysis of ROMS/NAM model output and observational data.
-- **Flexible Nutrient Ratios:** With [Tim DeVries](https://tdevries.eri.ucsb.edu/), I am implementing flexible nutrient uptake stoichiometries for phytoplankton in a global ocean circulation inverse model.

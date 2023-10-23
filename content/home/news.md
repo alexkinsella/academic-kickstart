@@ -49,4 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+6/29/23: I recently got back from a research expedition on the Arabian Sea. [Click here](/post/2023-07-29-an-iridescent-cyclone/) to read about the cyclone that we saw.
+
+11/3/22: I got to write a blog post for NASA Earth Expeditions about our field work in the East Pacific. [Check it out!](https://blogs.nasa.gov/earthexpeditions/2022/11/03/finding-nature-at-sea-during-nasas-s-mode-field-campaign/)
+
 6/8/21: My paper with [Bobby Acharya](https://www.kcl.ac.uk/people/bobby-acharya) and [David R. Morrison](http://web.math.ucsb.edu/~drm/) on heterotic duals of M-theory on $G_2$ orbifolds is now available as a preprint on arXiv. [Click here](https://arxiv.org/abs/2106.03886) to view.
