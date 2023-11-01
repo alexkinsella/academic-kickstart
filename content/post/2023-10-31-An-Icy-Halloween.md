@@ -7,7 +7,7 @@ tags = ["Clouds", "Weather"]
 categories = ["Cloud Blog"]
 +++
 
-Today was the first cold day of the season, and the refreshing crispness of the air came with a stunning cirrus display high above Cape Cod. We were lucky to be right at the edge of a multi-state cloud river, where dense altostratus and cirrostratus clouds poured down a river of jet stream air. Because we were at one edge of this band, we were treated to all kinds of cirrus games as these high clouds danced around the main formation like crumbs falling off a pastry. 
+Today was the first cold day of the season, and the refreshing crispness of the air came with a stunning cirrus display high above Cape Cod. We were lucky to be right at the edge of a multi-state cloud band, where dense altostratus and cirrostratus clouds poured down a river of jet stream air. Because we were at one edge of this band, we were treated to all kinds of cirrus games as these high clouds danced around the main formation like crumbs falling off a pastry. 
 
 {{< video src="/media/Icy_Halloween/1_halloween.mp4" controls="yes" >}}
 
