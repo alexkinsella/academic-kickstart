@@ -11,7 +11,7 @@ Today was the first cold day of the season, and the refreshing crispness of the 
 
 {{< video src="/media/Icy_Halloween/1_halloween.mp4" controls="yes" >}}
 
-To set the scene, above is an animation of the day’s clouds over the Northeast from NOAA’s GOES-16 satellite. The central display is the river of mid-level clouds traveling northeast along the jet stream over the mid-Atlantic states. Notice how Cape Cod (that’s me!) spends the day going in and out of cloud cover. The clouds to the north, over New York and elsewhere, are also mesmerizing as they fill in with a rotating, rippling pattern of gravity waves. 
+To set the scene, above is an animation of the day’s clouds over the Northeast from NOAA’s GOES-16 satellite. The central display is the river of mid-level clouds traveling northeast along the jet stream over the mid-Atlantic states. Notice how Cape Cod, where I am, spends the day going in and out of cloud cover. The clouds to the north, over New York and elsewhere, are also mesmerizing as they fill in with a rotating, rippling pattern of gravity waves. 
 
 The morning on the Cape started with some striking contrails — the high clouds that are created by the water vapor exhaust of jet aircraft when conditions are right. The contrails in this case showed both that the upper levels were near saturation, and thus primed for a cirrus show, as well as the ripping jet stream winds that elongated the falling ice streaks in the contrails to make these “descending curtains” visible in the sky.
 
@@ -25,7 +25,7 @@ Not to be outdone by human magicians in the sky, the atmosphere followed this up
 
 As the cirrocumulus clouds developed, some took on an appearance that reminded me of open cellular convection. This is when convective cells are made by clear patches surrounded by a cloudy boundary, rather than the more familiar closed cells, where cloudy patches are surrounded by a clear boundary. See the second picture below for a satellite image from the Pacific, where stratocumulus often mix these two modes of convection in beautiful patterns. I’m not sure whether cirrocumulus can exhibit open cellular convection, though. The patterns today might have just been closed cells that were at a variety of “life stages”. Either way, it’s always fun to have a reason to look at the open cells in the Pacific.
 
-{{< figure src="/media/Icy_Halloween/5_cells.jpg" caption="A mature field of cirrocumulus showing structure at many scales. Some regions are primarily white with thin strips of blue, like closed convective cells. Other regions are primarily blue with thin strips of white, suggesting open convective cells. Is that what they are? I’m not sure!" >}}
+{{< figure src="/media/Icy_Halloween/5_cells.jpg" caption="A mature field of cirrocumulus showing structure at many scales. Some regions are primarily white with thin strips of blue, like closed convective cells. Other regions are primarily blue with thin strips of white, suggesting open convective cells, though there may be a different explanation." >}}
 
 {{< figure src="/media/Icy_Halloween/6_pac_cells.jpg" caption="An example of open and closed cells in stratocumulus clouds over the Pacific Ocean. Areas covered in thick white are closed cells, while those where the blue ocean peeks through between thin lines of cloud are open cells. The clouds over the Pacific make all kinds of amazing patterns with their cells. Image acquired by the NASA Terra satellite MODIS instrument and obtained from NASA Earth Observatory." >}}
 
