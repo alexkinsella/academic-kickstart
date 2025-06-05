@@ -50,9 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
+<!--
 **Oceanography**
 - **Flexible Nutrient Ratios:** With [Tim DeVries](https://tdevries.eri.ucsb.edu/), I implemented flexible nutrient uptake stoichiometries for phytoplankton in a global ocean circulation inverse model.
-
+- **Santa Barbara Channel Dynamics:** With [Nick Nidzieko](https://ucsbcoastlab.org/nick-nidzieko/) and [Alex Fisher](https://alexanderwfisher.com/), I studied the coupled ocean-atmosphere dynamics of the Santa Barbara Channel via analysis of ROMS/NAM model output and observational data.
+-->
 
 **M-theory/heterotic Duality**
 

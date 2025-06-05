@@ -33,7 +33,7 @@
   name = "Blog"
   url = "https://cloudlooks.substack.com/"
   weight = 60
-  pre = true
+#  pre = true
 
 # [[main]]
 #   name = "Photos"
