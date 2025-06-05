@@ -52,6 +52,6 @@ subtitle = ""
 **Physical Oceanography**
 
 My primary research interests center around the effects of upper-ocean dynamics, air-sea interaction, and cloud physics on the large-scale dynamics of Earth's climate. 
-- **Monsoon Air-Sea Fluxes** As part of the EKAMSAT field campaign, I am studying the effects of clouds on surface air-sea fluxes over the northern Indian Ocean. During our pilot cruise, we sampled the wake of a tropical cyclone and studied the effects of submesoscale dynamics in its restratification. [Read the GRL paper here.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL112413)
+- **Monsoon Air-Sea Fluxes** As part of the EKAMSAT field campaign, I am studying the effects of clouds on surface air-sea fluxes over the northern Indian Ocean. During our pilot cruise, we sampled the wake of a tropical cyclone and studied the role of submesoscale dynamics on its restratification. [Read the GRL paper here.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL112413)
 - **Monsoon Intraseasonal Oscillations** With [Amala Mahadevan](https://mahadevan.whoi.edu/), I am studying the role of air-sea coupling in development and propagation of northward-traveling waves of precipitation in the Indian monsoon over the Bay of Bengal.
 - **Submesoscale Ocean Dynamics** I have gone to sea with the [CALYPSO](https://calypsodri.whoi.edu/) and [S-MODE](https://espo.nasa.gov/s-mode/content/S-MODE) field campaigns to gather data that will help us understand how the ocean transports heat and carbon from the surface ocean to the interior.
