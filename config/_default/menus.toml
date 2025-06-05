@@ -31,7 +31,7 @@
 
  [[main]]
   name = "Blog"
-  url = "/post"
+  url = "cloudlooks.substack.com"
   weight = 60
 
 # [[main]]
